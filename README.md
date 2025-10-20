@@ -52,3 +52,6 @@ saya membuat skrip untuk otomatisasi pembuatan file.ts dan konversinya menjadi .
 tinggal jalankan saja `translations_ts.bat` dan `translations_qm.bat` 
 
 maka file translate dengan mudah dibuat tanpa harus mengetik perintah
+
+## Preview
+![preview](preview.png)
