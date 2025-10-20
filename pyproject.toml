@@ -1,0 +1,10 @@
+[project]
+name = "pyside6-starter-portable"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "auto-py-to-exe>=2.48.1",
+    "pyside6>=6.9.1",
+]
